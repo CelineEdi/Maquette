@@ -1,0 +1,42 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	height: 100px;
+}
+ul li{
+	list-style-type: none;
+}
+ul{
+	display: flex;
+	justify-content: space-around;
+} 
+a{
+	text-decoration: none;
+	color: black;
+}
+.studio{
+	font-size: 15px;
+	color: black;
+}
+.write{
+	background-color: #FFF;
+	border-radius: 10px;
+	border: 1px solid black;
+	padding: 8px 25px;
+}
+.section{
+	text-align: center;
+	margin-top: 50px;
+}
+.bleu{
+	background-color: #3498DB;
+	border-radius: 10px;
+	border: 1px solid #3498DB;
+	padding: 8px 25px;
+
+}
+
+
+.ordi{
+	height: 400px;
+}
